@@ -1,14 +1,24 @@
-<img align='right'  src="https://source.unsplash.com/random/500x100">
-
-
 ### Hi there I'm Jestin G Johnson :lemon:
 
-[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:houshuai0816@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=c&logoColor=white)](https://www.linkedin.com/in/jestyrule/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jestinjohnson1@gmail.com)](mailto:jestinjohnson1@gmail.com)
 
-🚀Welcome to the rain planet🌎
+🚀Welcome to the My 🌎
 
-![houshuai github stats](https://source.unsplash.com/random/800x500)
+const Jestin = {
+    pronouns: "He" | "Him",
+    code: ["Python","Javascript"],
+    askMeAbout: ["web dev", "tech", "frontend dev", "music", "fullstack dev"],
+    technologies: {
+       frontEnd: ["Angular"],
+       backEnd: {
+            ["django"],
+        },
+        databases: ["MySql", "sqlite"]
+    },
+    architecture: ["mvt"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 
 
 📊 **This week I spent my time on**
@@ -17,11 +27,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Other       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-YAML        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Python      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+Js          1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
+Django      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Html        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 <!--END_SECTION:waka-->
 
