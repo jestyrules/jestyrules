@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Jestin G Johnson</h1>
-<h3 align="center">Python Full Stack Developer</h3>
+### Hi there 🌈
 
-- 🔭 I’m currently working on **Feed Them - Food Sharing Website**
+<a href="https://www.linkedin.com/in/emilly-de-albuquerque-oliveira-59837118b/">
+  <img align="left" alt="Emilly's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/emys_alb">
+  <img align="left" alt="Emilly's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/twitter.svg" />
+</a>
 
-- 🌱 I’m currently learning **Angular**
+<img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+<br>
 
-- 👨‍💻 All of my projects are available at [https://jestyrules.github.io/Portfolio/](https://jestyrules.github.io/Portfolio/)
+<br> My name is Emilly(she/her). I'm pursuing a Bachelor's degree in Computer Science. 
+<br> 🔭 Currently learning about data science, frontend and how to play among us.
+<br> 🌱 I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
+<br> ⚡ Recently my projects are kid-related, while I am studying I find something nice to do for them.
+<br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
 
-- 💬 Ask me about **Python**
+**Languages and Tools:**  
+<code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
 
-- 📫 How to reach me **jestinjohnson1@gmail.com**
+![Emys's Stats](https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qM_GHFc2l0Vj7Wq3lNLjOYK-ATOBo2Yy/view?usp=share_link](https://drive.google.com/file/d/1qM_GHFc2l0Vj7Wq3lNLjOYK-ATOBo2Yy/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/jestyrule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jestyrule" height="30" width="40" /></a>
-<a href="https://instagram.com/jestyrule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jestyrule" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jestinjohnson1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jestinjohnson1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+⭐️ From [Emys-alb](https://github.com/emys-alb)
