@@ -1,10 +1,9 @@
 ### Hi there I'm Jestin G Johnson :lemon:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=c&logoColor=white)](https://www.linkedin.com/in/jestyrule/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestyrule/)](https://www.linkedin.com/in/jestyrule/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jestinjohnson1@gmail.com)](mailto:jestinjohnson1@gmail.com)
 
 🚀Welcome to the My 🌎
-
+```javascript
 const Jestin = {
     pronouns: "He" | "Him",
     code: ["Python","Javascript"],
@@ -19,6 +18,7 @@ const Jestin = {
     architecture: ["mvt"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
 
 
 📊 **This week I spent my time on**
