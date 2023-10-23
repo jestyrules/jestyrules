@@ -1,6 +1,6 @@
 ### Hi there 🌈
 
-<a href="https://www.linkedin.com/in/emilly-de-albuquerque-oliveira-59837118b/">
+<a href="https://www.linkedin.com/in/jestyrule/">
   <img align="left" alt="Emilly's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/emys_alb">
